@@ -14,13 +14,13 @@ export const AboutStory = () => {
           <div className="lg:w-1/2">
             <h2 className="text-3xl font-bold mb-4">Our Story</h2>
             <p className="text-starry-neutral mb-4">
-              Heroic Threads was born out of a passion for superheroes and quality apparel. What started as a small operation in 2015 has grown into a beloved brand for superhero enthusiasts across the globe.
+              Starry Hero was born out of a passion for superheroes and quality apparel. What started as a small operation in 2015 has grown into a beloved brand for superhero enthusiasts across the globe.
             </p>
             <p className="text-starry-neutral mb-4">
               Our founder, Alex Chen, began designing t-shirts as a hobby while studying graphic design. When friends and fellow fans started requesting custom designs, Alex realized there was a gap in the market for high-quality, thoughtfully designed superhero apparel that went beyond generic merchandise.
             </p>
             <p className="text-starry-neutral mb-4">
-              Today, Heroic Threads partners with artists and designers from various universes to create unique, officially licensed products that celebrate the rich tapestry of superhero culture.
+              Today, Starry Hero partners with artists and designers from various universes to create unique, officially licensed products that celebrate the rich tapestry of superhero culture.
             </p>
             <div className="mt-8">
               <h3 className="text-xl font-bold mb-2">Our Vision</h3>

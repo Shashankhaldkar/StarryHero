@@ -22,7 +22,7 @@ const Terms = () => {
             </CardHeader>
             <CardContent className="text-purple-300 space-y-4">
               <p>
-                By accessing and using HeroicThreads, you accept and agree to be bound by the terms and 
+                By accessing and using StarryHero, you accept and agree to be bound by the terms and 
                 provision of this agreement. If you do not agree to abide by the above, please do not 
                 use this service.
               </p>
@@ -34,7 +34,7 @@ const Terms = () => {
               <CardTitle className="text-white">Use License</CardTitle>
             </CardHeader>
             <CardContent className="text-purple-300 space-y-4">
-              <p>Permission is granted to temporarily download one copy of the materials on HeroicThreads for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:</p>
+              <p>Permission is granted to temporarily download one copy of the materials on StarryHero for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:</p>
               <ul className="list-disc list-inside space-y-2 ml-4">
                 <li>Modify or copy the materials</li>
                 <li>Use the materials for any commercial purpose or for any public display</li>
@@ -97,7 +97,7 @@ const Terms = () => {
             <CardContent className="text-purple-300">
               <p>Questions about these Terms of Service should be sent to us at:</p>
               <p className="mt-2">
-                Email: legal@heroicthreads.com<br />
+                Email: legal@StarryHero.com<br />
                 Phone: +1 (234) 567-890
               </p>
             </CardContent>

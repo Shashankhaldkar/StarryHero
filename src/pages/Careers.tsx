@@ -42,7 +42,7 @@ const Careers = () => {
     "Unlimited PTO policy",
     "Remote-first culture",
     "Professional development budget",
-    "Free HeroicThreads merchandise",
+    "Free StarryHero merchandise",
     "Comic-Con attendance bonus"
   ];
 
@@ -61,7 +61,7 @@ const Careers = () => {
 
         {/* Company Culture */}
         <div className="mb-16">
-          <h2 className="text-2xl font-bold text-white mb-8 text-center">Why HeroicThreads?</h2>
+          <h2 className="text-2xl font-bold text-white mb-8 text-center">Why StarryHero?</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="text-center">
               <div className="w-16 h-16 bg-purple-600 rounded-full flex items-center justify-center mx-auto mb-4">

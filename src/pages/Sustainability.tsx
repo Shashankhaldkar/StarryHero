@@ -48,7 +48,7 @@ const Sustainability = () => {
         <div className="bg-gradient-to-br from-green-900/20 to-blue-900/20 border border-green-500/30 rounded-lg p-8 mb-12">
           <h2 className="text-2xl font-bold text-white mb-4">Our Environmental Mission</h2>
           <p className="text-green-200 text-lg leading-relaxed">
-            At HeroicThreads, we believe that true heroes protect the planet. That's why we're committed to sustainable practices 
+            At StarryHero, we believe that true heroes protect the planet. That's why we're committed to sustainable practices 
             throughout our entire supply chain. From organic materials to carbon-neutral shipping, every decision we make considers 
             our environmental impact. Join us in being an eco-hero while looking stylish.
           </p>

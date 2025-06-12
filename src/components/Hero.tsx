@@ -34,7 +34,7 @@ export function Hero() {
         <div className="max-w-3xl mx-auto text-center">
           <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
             <span className="block bg-gradient-to-r from-purple-300 via-purple-400 to-blue-400 text-transparent bg-clip-text drop-shadow-xl">
-              Heroic Threads
+              Starry Hero
             </span>
             <span className="block text-white mt-2">For Everyday Heroes</span>
           </h1>

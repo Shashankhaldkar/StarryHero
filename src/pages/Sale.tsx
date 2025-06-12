@@ -42,7 +42,7 @@ const Sale = () => {
             </Badge>
           </div>
           <p className="text-purple-300 text-lg max-w-2xl mx-auto">
-            Heroic savings on your favorite superhero merchandise
+            Starry savings on your favorite superhero merchandise
           </p>
         </div>
 

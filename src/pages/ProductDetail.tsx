@@ -588,7 +588,7 @@ const ProductDetail = () => {
                   To be eligible for a return, your item must be unused and in the same condition that you received it. It must also be in the original packaging.
                 </p>
                 <p>
-                  To start a return, please contact our customer service team at support@heroicthreads.com.
+                  To start a return, please contact our customer service team at support@StarryHero.com.
                 </p>
               </div>
             </TabsContent>

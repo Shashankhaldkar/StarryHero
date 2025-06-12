@@ -25,7 +25,7 @@ const GiftCards = () => {
             </h1>
           </div>
           <p className="text-purple-300 text-lg max-w-2xl mx-auto">
-            Give the gift of heroic style. Perfect for any superhero fan!
+            Give the gift of Starry style. Perfect for any superhero fan!
           </p>
         </div>
 
@@ -81,7 +81,7 @@ const GiftCards = () => {
                   <span className="text-white font-bold">3</span>
                 </div>
                 <h3 className="text-white font-medium mb-2">Shop & Enjoy</h3>
-                <p className="text-purple-300 text-sm">Use the gift card on any HeroicThreads purchase</p>
+                <p className="text-purple-300 text-sm">Use the gift card on any StarryHero purchase</p>
               </div>
             </div>
           </div>

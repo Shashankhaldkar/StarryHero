@@ -9,7 +9,7 @@ const Press = () => {
   const pressReleases = [
     {
       id: 1,
-      title: "HeroicThreads Launches Sustainable Superhero Collection",
+      title: "StarryHero Launches Sustainable Superhero Collection",
       date: "2024-01-15",
       excerpt: "New eco-friendly line made from 100% organic cotton aims to make superhero fashion more sustainable.",
       link: "#"
@@ -18,12 +18,12 @@ const Press = () => {
       id: 2,
       title: "Partnership with Comic-Con International Announced",
       date: "2023-12-10",
-      excerpt: "HeroicThreads becomes official merchandise partner for Comic-Con events worldwide.",
+      excerpt: "StarryHero becomes official merchandise partner for Comic-Con events worldwide.",
       link: "#"
     },
     {
       id: 3,
-      title: "HeroicThreads Raises $5M Series A for Global Expansion",
+      title: "StarryHero Raises $5M Series A for Global Expansion",
       date: "2023-11-22",
       excerpt: "Funding will support international expansion and new product development initiatives.",
       link: "#"
@@ -46,7 +46,7 @@ const Press = () => {
             Press & Media
           </h1>
           <p className="text-purple-300 text-lg max-w-2xl mx-auto">
-            Latest news, press releases, and media resources about HeroicThreads
+            Latest news, press releases, and media resources about StarryHero
           </p>
         </div>
 
@@ -118,7 +118,7 @@ const Press = () => {
                 </div>
                 <div>
                   <div className="text-purple-400 text-sm">Email</div>
-                  <div className="text-white">press@heroicthreads.com</div>
+                  <div className="text-white">press@StarryHero.com</div>
                 </div>
                 <div>
                   <div className="text-purple-400 text-sm">Phone</div>

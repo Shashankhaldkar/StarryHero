@@ -140,8 +140,8 @@ export function Footer() {
               </li>
               <li className="flex items-center">
                 <Mail className="w-5 h-5 text-purple-400 mr-3" />
-                <a href="mailto:hello@heroicthreads.com" className="text-purple-300 hover:text-purple-200 transition-colors">
-                  hello@heroicthreads.com
+                <a href="mailto:hello@StarryHero.com" className="text-purple-300 hover:text-purple-200 transition-colors">
+                  hello@StarryHero.com
                 </a>
               </li>
             </ul>
@@ -151,7 +151,7 @@ export function Footer() {
         {/* Copyright and policies */}
         <div className="mt-16 pt-8 border-t border-purple-800/20 flex flex-col md:flex-row justify-between items-center">
           <p className="text-purple-400 text-sm mb-4 md:mb-0">
-            © {new Date().getFullYear()} HeroicThreads. All rights reserved.
+            © {new Date().getFullYear()} StarryHero. All rights reserved.
           </p>
           <div className="flex flex-wrap justify-center gap-4 md:gap-8">
             <Link to="/privacy" className="text-purple-400 hover:text-purple-300 transition-colors text-sm">

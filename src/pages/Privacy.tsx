@@ -84,7 +84,7 @@ const Privacy = () => {
             <CardContent className="text-purple-300">
               <p>If you have questions about this Privacy Policy, please contact us at:</p>
               <p className="mt-2">
-                Email: privacy@heroicthreads.com<br />
+                Email: privacy@StarryHero.com<br />
                 Phone: +1 (234) 567-890
               </p>
             </CardContent>

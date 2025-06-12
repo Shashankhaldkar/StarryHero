@@ -108,7 +108,7 @@ const FAQ = () => {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                 <div className="text-center">
                   <h3 className="text-white font-medium mb-2">Email Support</h3>
-                  <p className="text-purple-300 text-sm">help@heroicthreads.com</p>
+                  <p className="text-purple-300 text-sm">help@StarryHero.com</p>
                   <p className="text-purple-400 text-xs">Response within 24 hours</p>
                 </div>
                 <div className="text-center">

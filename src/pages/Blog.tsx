@@ -56,7 +56,7 @@ const Blog = () => {
       <main className="container mx-auto px-4 py-8">
         <div className="text-center mb-12">
           <h1 className="text-4xl font-bold mb-4 bg-gradient-to-r from-purple-400 to-blue-400 text-transparent bg-clip-text">
-            HeroicThreads Blog
+            StarryHero Blog
           </h1>
           <p className="text-purple-300 text-lg max-w-2xl mx-auto">
             Stories, style guides, and superhero fashion inspiration

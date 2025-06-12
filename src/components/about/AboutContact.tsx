@@ -17,7 +17,7 @@ export const AboutContact = () => {
                 <Mail className="text-starry-purple mr-3 mt-1" />
                 <div>
                   <h4 className="font-medium">Email Us</h4>
-                  <p className="text-starry-neutral">support@heroicthreads.com</p>
+                  <p className="text-starry-neutral">support@StarryHero.com</p>
                 </div>
               </div>
               <div className="flex items-start">
